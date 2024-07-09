@@ -1,0 +1,11 @@
+defult login admin
+
+http://localhost/furniture/furniture/admin/login.php
+
+username admin
+pass : admin123
+
+
+defult user /customer
+
+http://localhost/furniture/furniture/
